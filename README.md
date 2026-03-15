@@ -31,8 +31,6 @@ This is a readme file made for Digital Platforms class at UWGB Spring 2026.
 <a title="Mossytravels05, CC BY 4.0 &lt;https://creativecommons.org/licenses/by/4.0&gt;, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Notebook_and_computer.jpg"><img width="512" alt="Empty notebook in front of an open laptop" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/Notebook_and_computer.jpg?_=20260307224004"></a>
 
 <a title="Reflection.html" Reflection></a>
-﻿<!DOCTYPE html>
-<html>
 
 <head>
   <meta charset="utf-8">
@@ -49,6 +47,4 @@ In the end, I think I got everything to show up. I did some major edits to the R
 </div>
 </body>
 
-</html>
-</body>
 </html>
